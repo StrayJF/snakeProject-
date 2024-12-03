@@ -1,0 +1,1 @@
+The python code contains the snake game. For try it, you need to download all the images and upload in the same file of the code. Then, when you execute it you need to click the screen before start playing. 
